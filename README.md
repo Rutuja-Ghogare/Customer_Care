@@ -1,7 +1,7 @@
 # Gas_utility
 Link to the Youtube Video - https://youtu.be/TKn-Iv2aCs4?si=-Y_LHUj0eStukDgK
 
-This is my Final Project for the course CS50’s Web Programming with Python and JavaScript. It is built with Django, HTML, CSS, Javascript, Python & Bootsrap.
+This Project is built with Django, HTML, CSS, Javascript, Python & Bootsrap.
 
 I have built an application to provide consumer services. This application would allow customers to submit service requests online, track the status of their requests, and also message their customer support representatives.
 The application would also provide customer support representatives with a tool to manage requests and provide support to customers.
@@ -210,4 +210,3 @@ This URL is for Customers Only. So if you are logged in as a *Customer Support R
 2. ``` http://127.0.0.1:8000/support/login```:
 This URL is for Customer Support Representatives Only. So if you are logged in as a *Customer* and try to visit the above mentioned URL. Your request will be denied. So if you want to visit the Support section first log out as a Customer.
 
-# Thankyou CS50, because of you I got my first internship.
