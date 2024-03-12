@@ -1,5 +1,3 @@
-# Gas_utility
-Link to the Youtube Video - https://youtu.be/TKn-Iv2aCs4?si=-Y_LHUj0eStukDgK
 
 This Project is built with Django, HTML, CSS, Javascript, Python & Bootsrap.
 
